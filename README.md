@@ -5,6 +5,7 @@
 
 Comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
 </br>
+
 Atualmente estou me especializando nas tecnologias abaixo:
 
 <div>
