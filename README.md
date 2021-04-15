@@ -1,9 +1,9 @@
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400"/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 # Olá! Como vão as coisas!? ☺
 
-### Comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
+### Me chamo Joanthan, e no mundo da tecnologia comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
 
 ### Atualmente estou me especializando nas tecnologias abaixo:
 
