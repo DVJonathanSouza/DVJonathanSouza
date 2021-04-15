@@ -12,9 +12,7 @@
 
 ### Ei! Bem-vindo ao meu perfil! Como vão as coisas? ☺
 
-🚀 I’m currently working at Rocketseat
-💻 Node, ReactJS, React Native, Typescript
-✨ Learning is continuous and there will always be a next level
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
 
 </br>
 
