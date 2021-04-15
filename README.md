@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="365"/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="370"/>
 
 # Olá! Como vão as coisas!? ☺
 
