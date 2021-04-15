@@ -18,9 +18,7 @@
 
  ##
  
-<div>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)</a>
-
+<div>  
+<a href="https://www.linkedin.com/in/jonathan-souza-1702/" target="_blank"><img src="https://img.shields.io/badge/-Jonathan Souza-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  
 </div>
