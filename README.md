@@ -20,5 +20,5 @@
  
 <div>  
 <a href="https://www.linkedin.com/in/jonathan-souza-1702/" target="_blank"><img src="https://img.shields.io/badge/-Jonathan Souza-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23EA4335?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">  
+<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  
 </div>
