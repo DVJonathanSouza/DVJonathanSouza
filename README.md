@@ -1,8 +1,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-# Eii! Como vão as coisas!? ☺
-
+# Olá! Como vão as coisas!? ☺
 ### Comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
 
 ### Atualmente estou me especializando nas tecnologias abaixo:
