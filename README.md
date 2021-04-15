@@ -12,10 +12,6 @@
 
 ### Ei! Bem-vindo ao meu perfil! Como vão as coisas? ☺
 
-- 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
-- 💻 Node, ReactJS, React Native, Typescript
-- ✨ Learning is continuous and there will always be a next level
-
 </br>
 
 <div>
