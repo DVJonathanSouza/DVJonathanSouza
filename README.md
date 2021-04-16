@@ -5,7 +5,7 @@
 
 ### Me chamo Jonathan, e no mundo da tecnologia comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
 
-### Atualmente estou me especializando nas tecnologias abaixo:
+### Atualmente estou me especializando nas linguagens abaixo:
 
 <div>
   <a href="https://github.com/DVJonathanSouza">
