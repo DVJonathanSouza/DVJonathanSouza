@@ -14,8 +14,11 @@
   </br>
   
  ##
- 
-<div>  
-<a href="https://www.linkedin.com/in/jonathan-souza-1702/" target="_blank"><img src="https://img.shields.io/badge/-Jonathan Souza-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  
-</div>
+
+<a href="https://www.linkedin.com/in/jonathan-souza-1702/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto: jonathan.souz.oliveira@outlook.com"">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
