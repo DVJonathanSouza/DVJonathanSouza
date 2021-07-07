@@ -19,5 +19,5 @@
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https:https://www.linkedin.com/in/jonathan-souza-1702/"/>
   </a>
 
-<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank">
+<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-1C1C1C?style=for-the-badge&logo=Outlook&LogoColor=00FFFF" target="_blank">
   </a>
