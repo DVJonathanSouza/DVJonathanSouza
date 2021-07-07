@@ -15,11 +15,11 @@
   
  ---
     
- <div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https:https://www.linkedin.com/in/jonathan-souza-1702/" alt="Linkedin">
     </a>
 
   <a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank" alt="Email">
     </a>
-</div>
+</p>
