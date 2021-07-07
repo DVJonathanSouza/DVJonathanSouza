@@ -14,10 +14,12 @@
     </br>
   
  ---
-   
-<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https:https://www.linkedin.com/in/jonathan-souza-1702/"/>
-  </a>
+    
+ <div>
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https:https://www.linkedin.com/in/jonathan-souza-1702/"/>
+    </a>
 
-<a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-1C1C1C?style=for-the-badge&logo=Email&LogoColor=00FFFF" target="_blank">
-  </a>
+  <a href = "mailto: jonathan.souz.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=Gmail&LogoColor=00FFFF" target="_blank">
+    </a>
+</div
