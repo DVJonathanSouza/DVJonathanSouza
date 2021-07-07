@@ -13,7 +13,7 @@
 <div>
   </br>
   
- ##
+ ---
 
 <a href="https://www.linkedin.com/in/jonathan-souza-1702/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
