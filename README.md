@@ -3,7 +3,7 @@
 
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Como vão as coisas!?
 
-### Me chamo Jonathan, e no mundo da tecnologia comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área, em especial a parte de front-end.
+### Me chamo Jonathan, e no mundo da tecnologia comecei cursando Análise e Desenvolvimento de Sistemas pela universidade UNINOVE, onde aprendi conceitos de programação dando início a minha paixão por esta área.
 
 ### Atualmente estou me especializando nas linguagens abaixo:
 
