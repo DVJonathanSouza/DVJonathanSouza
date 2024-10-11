@@ -1,7 +1,4 @@
 
-</br>
-</br>
-
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"/>
 
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Como vão as coisas!?
